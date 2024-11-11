@@ -16,7 +16,7 @@ function Team() {
               src="media/images/UserImage.jpg"
               style={{ borderRadius: "80%", width: "40%" }}
             />
-            <h4 className="mt-5">Gagan Agrawal</h4>
+            <h4 className="mt-5">Jatin Pratap Singh</h4>
             <h6>Software Engineer</h6>
           </div>
           <div className="col-6 p-3">
